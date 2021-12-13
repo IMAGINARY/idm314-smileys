@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.882 75.882">
+  <g>
+    <g>
+      <circle cx="37.941" cy="37.941" r="36.941" fill="#c3f243"/>
+      <polygon points="41.561 62.07 46.416 59.908 48.294 57.59 48.805 55.004 42.864 55.077 26.854 55.077 28.964 59.908 34.038 62.07 41.561 62.07" fill="#fa1e26"/>
+    </g>
+    <g>
+      <path d="M13.284,28.348a10.093,10.093,0,0,1,4.272-5.85,10.084,10.084,0,0,1,6.938-2.208" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M62.039,30.05a11.506,11.506,0,0,0-13.667-1.88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M48.835,53.631c0,4.717-3.706,8.467-11.137,8.467s-11.185-3.762-11.185-8.467" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M26.6,53.631s11.318,4.047,22.084.087" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M55.613,37.717A9.485,9.485,0,0,0,51,36.234,12.018,12.018,0,0,0,45.9,37.48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle cx="25.219" cy="36.831" r="4.818"/>
+      <circle cx="37.941" cy="37.941" r="36.941" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
